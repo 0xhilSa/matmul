@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./docs/matmul.png" alt="matmul.png">
-  implement matrix multiplication op on 4x4(default) using systolic array
+  <p align="center">implement matrix multiplication op on 4x4(default) using systolic array</p>
 </p>
 
 ## Intall
