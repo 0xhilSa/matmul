@@ -3,7 +3,7 @@
   <p align="center">implement matrix multiplication op on 4x4(default) using systolic array</p>
 </p>
 
-## Intall
+### Intall
 ```bash
 git clone git@github.com:0xhilSa/matmul.git
 cd matmul
